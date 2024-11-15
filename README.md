@@ -37,4 +37,4 @@ The project follows this structure:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GestionContacts.git
+   git clone https://github.com/med-khadiri/GestionContacts.git
